@@ -426,6 +426,7 @@ img#site-title {
 .grid figcaption {
 	background:#333;
 	padding: 25px;
+	min-height: 153px;
 }
 /* Slideshow style */
 .slideshow {
